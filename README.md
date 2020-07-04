@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
+---------------
+
+[Create a Next.js App](https://nextjs.org/learn/basics/create-nextjs-app)
+
+---------------
+
+
 ## Getting Started
 
 First, run the development server:
